@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+// Customization
+
+// You can easily customize Bulma with your own variables.
+// Just uncomment the following block to see the result.
+
+
+@import "../node_modules/bulma/sass/utilities/initial-variables";
+
+// Colors
+
+$blue: #006bbe;
+$grey: #424242;
+$yellow: #efffbf;
+
+// Fonts
+
+$family-sans-serif: "Ubuntu", sans-serif;
+
+// Font size
+
+$size-1: 4rem;
+$size-2: 3rem;
+$size-3: 2.4rem;
+$size-4: 2rem;
+$size-5: 1.5rem;
+$size-6: 1rem;
+$size-7: 0.75rem;
+
+@import "../node_modules/bulma/bulma";
+
